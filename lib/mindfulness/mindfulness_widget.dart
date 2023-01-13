@@ -274,7 +274,7 @@ class _MindfulnessWidgetState extends State<MindfulnessWidget> {
                                                                       child:
                                                                           AutoSizeText(
                                                                         dateTimeFormat(
-                                                                          'yMMMd',
+                                                                          'MMMM y',
                                                                           listViewMonthlyMindfulnessRecord
                                                                               .uploadAt!,
                                                                           locale:
