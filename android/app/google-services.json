@@ -1,0 +1,166 @@
+{
+  "project_info": {
+    "project_number": "567423490642",
+    "project_id": "mindfulkids-2f484",
+    "storage_bucket": "mindfulkids-2f484.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567423490642:android:6882d19dbe58a074115d8b",
+        "android_client_info": {
+          "package_name": "com.welove.mindfulkids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567423490642-45o7fadlbi04mhnk36svjnhta2844v5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.welove.mindfulkids",
+            "certificate_hash": "036a0df996a8f78fdb71671f380b38d7ef1098f6"
+          }
+        },
+        {
+          "client_id": "567423490642-6bq55misrura2sa7ge7gecgv0pvqk908.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.welove.mindfulkids",
+            "certificate_hash": "5b1754e777bae3f4314723ef36d7a146fbc01329"
+          }
+        },
+        {
+          "client_id": "567423490642-j68959g5n8d932edcgpugjphnive0ijr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.welove.mindfulkids",
+            "certificate_hash": "2b6217b9e6a1471e2703408c23248fdfcdf2130c"
+          }
+        },
+        {
+          "client_id": "567423490642-rd053261075b0d74v1hjnr0imgkagib0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.welove.mindfulkids",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "567423490642-8g3fa2f10dqdr13q71vo04meieoa46ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtisrfBwTXLdXsgzd_Ce0ZAEWb_LLA6Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567423490642-8g3fa2f10dqdr13q71vo04meieoa46ul.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "567423490642-1n2608mppdul1oc46j84thorp169b05i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wlff.mindfulkids"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567423490642:android:ec864b3c5b4e07c7115d8b",
+        "android_client_info": {
+          "package_name": "com.weloveflutterflow.mindfulkids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567423490642-6pt4va7rajrsb9q0bl5u33ifbpbkq18u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weloveflutterflow.mindfulkids",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "567423490642-lto1kha27bcmctft5kk6pohuncbadkuv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weloveflutterflow.mindfulkids",
+            "certificate_hash": "1ba54c21f5d0f46cad1d83f22e758efbf3195391"
+          }
+        },
+        {
+          "client_id": "567423490642-8g3fa2f10dqdr13q71vo04meieoa46ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtisrfBwTXLdXsgzd_Ce0ZAEWb_LLA6Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567423490642-8g3fa2f10dqdr13q71vo04meieoa46ul.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "567423490642-1n2608mppdul1oc46j84thorp169b05i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wlff.mindfulkids"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567423490642:android:d82de5eb7a62eb09115d8b",
+        "android_client_info": {
+          "package_name": "com.wlff.mindfulkids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567423490642-8g3fa2f10dqdr13q71vo04meieoa46ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtisrfBwTXLdXsgzd_Ce0ZAEWb_LLA6Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567423490642-8g3fa2f10dqdr13q71vo04meieoa46ul.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "567423490642-1n2608mppdul1oc46j84thorp169b05i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wlff.mindfulkids"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

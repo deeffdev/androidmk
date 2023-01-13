@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Mindful Kids!</string>
+    <string name="facebook_app_id">604983551140498</string>
+               <string name="fb_login_protocol_scheme">fb604983551140498</string>
+</resources>

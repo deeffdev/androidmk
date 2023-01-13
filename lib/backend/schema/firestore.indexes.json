@@ -1,0 +1,80 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "meditation",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "is_free",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "upload_at",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Monthly_mindfulness",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "show",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "upload_at",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "affirmation_content",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "mindfulness",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "show",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "record_created_at",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "mindfull_moments",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "mindfulness",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "show",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "record_created_at",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": [
+    {
+      "collectionGroup": "fcm_tokens",
+      "fieldPath": "fcm_token",
+      "indexes": [
+        {
+          "order": "ASCENDING",
+          "queryScope": "COLLECTION_GROUP"
+        }
+      ]
+    }
+  ]
+}
