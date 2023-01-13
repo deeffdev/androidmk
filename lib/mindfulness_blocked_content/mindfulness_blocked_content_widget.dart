@@ -1062,7 +1062,7 @@ class _MindfulnessBlockedContentWidgetState
                         ),
                         Text(
                           dateTimeFormat(
-                            'yMMMd',
+                            'MMMM y',
                             widget.mfs!.uploadAt!,
                             locale: FFLocalizations.of(context).languageCode,
                           ),
