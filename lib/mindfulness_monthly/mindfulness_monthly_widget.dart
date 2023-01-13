@@ -236,7 +236,7 @@ class _MindfulnessMonthlyWidgetState extends State<MindfulnessMonthlyWidget> {
                                                                       child:
                                                                           AutoSizeText(
                                                                         dateTimeFormat(
-                                                                          'yMMMd',
+                                                                          'MMMM y',
                                                                           listViewMonthlyMindfulnessRecord
                                                                               .uploadAt!,
                                                                           locale:
@@ -329,7 +329,7 @@ class _MindfulnessMonthlyWidgetState extends State<MindfulnessMonthlyWidget> {
                                                               ],
                                                             ),
                                                             if (dateTimeFormat(
-                                                                  'yMd',
+                                                                  'yM',
                                                                   listViewMonthlyMindfulnessRecord
                                                                       .uploadAt,
                                                                   locale: FFLocalizations.of(
@@ -337,7 +337,7 @@ class _MindfulnessMonthlyWidgetState extends State<MindfulnessMonthlyWidget> {
                                                                       .languageCode,
                                                                 ) ==
                                                                 dateTimeFormat(
-                                                                  'yMd',
+                                                                  'yM',
                                                                   getCurrentTimestamp,
                                                                   locale: FFLocalizations.of(
                                                                           context)
@@ -453,7 +453,7 @@ class _MindfulnessMonthlyWidgetState extends State<MindfulnessMonthlyWidget> {
                                                                   ],
                                                                 ),
                                                                 if (dateTimeFormat(
-                                                                      'yMd',
+                                                                      'yM',
                                                                       listViewMonthlyMindfulnessRecord
                                                                           .uploadAt,
                                                                       locale: FFLocalizations.of(
@@ -461,7 +461,7 @@ class _MindfulnessMonthlyWidgetState extends State<MindfulnessMonthlyWidget> {
                                                                           .languageCode,
                                                                     ) ==
                                                                     dateTimeFormat(
-                                                                      'yMd',
+                                                                      'yM',
                                                                       getCurrentTimestamp,
                                                                       locale: FFLocalizations.of(
                                                                               context)
